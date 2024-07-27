@@ -1,7 +1,7 @@
 ## Predictive Analytics Learning Exercises
 
 ### Description
-This repository contains challenges and exercises related to Predictive Analytics for learning purposes.
+This repository contains challenges and exercises related to Predictive Analytics created for learning purposes.
 
 ### Repository Structure
 The repository consists of two notebooks and two datasets:
